@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/Explore/BattleEncounter.cs.meta
+guid: 45a82ae16ac7c8a4d9782b446aeff382
+========
+guid: 0ab78d9ebdf430542b14de5b76e1e1c8
+>>>>>>>> feature_CbaF:Assets/Scripts/CbaF/BattleScene/BattleManager.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

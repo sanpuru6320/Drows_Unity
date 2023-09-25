@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="BattleHud" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAAAQAEAAAABIAMAgAAAACAgAAAAIBShAgICAA=</HashCode>
+      <FileName>Assets\Scripts\1Pokemon\Battle\BattleHud.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPBar" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAABAAEAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Assets\Scripts\1Pokemon\Battle\HPBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AttackEffect" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BattleRPG\AttackEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleChar" Collapsed="true">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iQQQACABACAAAAAEAAAAAhCAIBAEgQAAQACAAAgAAAI=</HashCode>
+      <FileName>Assets\Scripts\BattleRPG\BattleChar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleMagicSelect" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAEAAAAAAAAAAAAAAAAEAAAAAAAEAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BattleRPG\BattleMagicSelect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleManager" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBQAAQQAYCAAACiADAECsEDEARBgEQDBAAAAAoYAgAg=</HashCode>
+      <FileName>Assets\Scripts\BattleRPG\BattleManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleMove" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIIAAAAAgAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BattleRPG\BattleMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleNotification" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAACAAAAAABAAAAAAAAAAACAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BattleRPG\BattleNotification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleType" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BattleRPG\BattleType.cs</FileName>
+      <NewMemberFileName>Assets\Scripts\BattleRPG\BAttleType.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DamageNumber" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACgEAAAAAAAAAAAAAAAAAAAAAAAAAAAQABAAAA=</HashCode>
+      <FileName>Assets\Scripts\BattleRPG\DamageNumber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterController" Collapsed="true">
+    <Position X="4.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAABAAEA=</HashCode>
+      <FileName>Assets\Scripts\Character\CharacterController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerController" Collapsed="true">
+    <Position X="2.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAQAAgAAEgBEAEAAAAAAAAAAAgAAEBBAIAABAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Character\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExploreState" Collapsed="true">
+    <Position X="2.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAASAAAAABACAAAAAAAAAEAEAAIAAAQACAAEA=</HashCode>
+      <FileName>Assets\Scripts\Explore\State\ExploreState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryState" Collapsed="true">
+    <Position X="4.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAABAAAAAAAAAAAEAAAAIAAAQAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Explore\State\InventoryState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatusState" Collapsed="true">
+    <Position X="1" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABBAAAAAAAAAAAEAAAAIAAAQAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Explore\State\StatusState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipSlots" Collapsed="true">
+    <Position X="3.75" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Explore\Status\EquipSlots.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="activateObject" Collapsed="true">
+    <Position X="1" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAIIAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Explore\activateObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BattleEncounter" Collapsed="true">
+    <Position X="2.25" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Explore\BattleEncounter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Explore" Collapsed="true">
+    <Position X="1" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgAAACEAAEAAAAAAIAMAAAACAAAAAAAAAAAAAAAACAQ=</HashCode>
+      <FileName>Assets\Scripts\Explore\Explore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLayers" Collapsed="true">
+    <Position X="3" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAIBAAAAAAQAAAAAAAAAAAAAIIQAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\GameplayRPG\GameLayers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="1" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAIQAQSAAAAAAAAAAAAAEAABAAIgEAADAAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameplayRPG\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeManager" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAECAAAAAAAgAAAAAAAAAAADIAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\Scripts\GameplayRPG\TimeManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimerCheck" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\GameplayRPG\TimerCheck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeUI" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAIAAAAAAAACAE=</HashCode>
+      <FileName>Assets\Scripts\GameplayRPG\TimeUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Stats.BaseStats" Collapsed="true">
+    <Position X="1" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAACAQAAAACAAAAAgAAAAAEAADAAAAAABAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Stats\BaseStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Stats.CharStats" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEAAAAACAAAABAAgAAABCAABCAAQAAQACAAAAAMEM=</HashCode>
+      <FileName>Assets\Scripts\Stats\CharStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Stats.Progression" Collapsed="true">
+    <Position X="4.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAgAAAAABAAAAAAABAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Stats\Progression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreeRoamState" Collapsed="true">
+    <Position X="6.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAEAAAAIAAAQAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Utils\StateMachine\FreeRoamState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Utilitys.StateMachine.State&lt;T&gt;" Collapsed="true">
+    <Position X="3.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAIAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Utils\StateMachine\State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Utilitys.StateMachine.StateMachine&lt;T&gt;" Collapsed="true">
+    <Position X="5.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAhAAAAAAEBCAAAACAAAAAAAAAQAAACAA=</HashCode>
+      <FileName>Assets\Scripts\Utils\StateMachine\StateMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Interactable" Collapsed="true">
+    <Position X="1" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameplayRPG\Interactable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="RPG.Stats.CharacterClass" Collapsed="true">
+    <Position X="5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEABAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAQIAAAA=</HashCode>
+      <FileName>Assets\Scripts\Stats\CharacterClass.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RPG.Stats.Stat" Collapsed="true">
+    <Position X="4.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACACAAAEAABAAAAIQAIBDAAAAQAFAAQAAAgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Stats\Stats.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Yu Gothic UI" Size="9" />
+</ClassDiagram>

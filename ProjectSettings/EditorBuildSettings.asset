@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/BattleScene.unity
+    guid: 0ea74b2bacc0e1547b1bdf8e2e7d6b9d
+  - enabled: 1
+    path: Assets/Scenes/ClearScene.unity
+    guid: 60c238d185b688f42a46005637b0717a
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/ExploreScene2.unity
+    guid: 53da2e99a3780e145ba95242b7e7e4ff
+  - enabled: 1
+    path: Assets/Scenes/Big Cave Dungeon.unity
+    guid: e98f7126735659348b207209ff62d237
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 466090a87e0837b408039ddcd51cc81e, type: 2}
