@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{DEC3921E-C868-4CB3-5EFE-34D20B69AE82}</ProjectGuid>
+    <ProjectGuid>{D2BF1BD9-D463-9D28-C486-53DF2E3B5FB3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,6 +61,7 @@
     <Compile Include="Assets\Scripts\UI\ShowHideUI.cs" />
     <Compile Include="Assets\Scripts\BattleRPG\DamageNumber.cs" />
     <Compile Include="Assets\Scripts\GameplayRPG\PeristentObjectSpawnerr.cs" />
+    <Compile Include="Assets\Scripts\BattleRPG\BAttleType.cs" />
     <Compile Include="Assets\Scripts\Character\EnemyChase.cs" />
     <Compile Include="Assets\Scripts\Inventory\Items\ItemBase.cs" />
     <Compile Include="Assets\Scripts\Explore\activateObject.cs" />
@@ -87,7 +88,6 @@
     <Compile Include="Assets\Scripts\BattleRPG\UI\CharacterDisplay.cs" />
     <Compile Include="Assets\Scripts\1Pokemon\Pokemons\Pokemon.cs" />
     <Compile Include="Assets\Scripts\1Pokemon\Pokemons\MoveBase.cs" />
-    <Compile Include="Assets\Scripts\BattleRPG\BattleType.cs" />
     <Compile Include="Assets\Scripts\BattleRPG\BattleMove.cs" />
     <Compile Include="Assets\Scripts\BattleRPG\State\BattleState.cs" />
     <Compile Include="Assets\Scripts\DataBase\ConditionsDB.cs" />

@@ -16,7 +16,7 @@ MonoBehaviour:
   - characterClass: 0
     stats:
     - stat: 0
-      parameter: 10000
+      parameter: 1000
     - stat: 3
       parameter: 100
     - stat: 6
@@ -28,7 +28,7 @@ MonoBehaviour:
   - characterClass: 1
     stats:
     - stat: 0
-      parameter: 100
+      parameter: 50
     - stat: 3
       parameter: 100
     - stat: 6
@@ -42,7 +42,7 @@ MonoBehaviour:
   - characterClass: 3
     stats:
     - stat: 0
-      parameter: 100
+      parameter: 50
     - stat: 3
       parameter: 100
     - stat: 6
@@ -54,7 +54,7 @@ MonoBehaviour:
   - characterClass: 4
     stats:
     - stat: 0
-      parameter: 100
+      parameter: 50
     - stat: 3
       parameter: 100
     - stat: 6

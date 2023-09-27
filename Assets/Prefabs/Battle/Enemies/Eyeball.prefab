@@ -104,20 +104,19 @@ MonoBehaviour:
   - Fire
   - Ice
   charName: Eyeball
-  currentHP: 100
+  currentHP: 50
   currentPP: 100
   strength: 5
   defence: 5
   wpnPower: 5
   armrPower: 5
-  maxHP: 250
+  maxHP: 50
   maxPP: 50
   speed: 30
-  rewardXP: 0
-  hasDied: 0
+  onAction: 1
   theSprite: {fileID: 212260510501265018}
-  deadSprite: {fileID: 0}
   aliveSprite: {fileID: 21300010, guid: 988d560df8d322a468c97243cbfd76e8, type: 3}
+  deadSprite: {fileID: 0}
   fadeSpeed: 1
 --- !u!114 &462346482312438059
 MonoBehaviour:
@@ -134,7 +133,6 @@ MonoBehaviour:
   startingLevel: 1
   characterClass: 1
   progression: {fileID: 11400000, guid: eb16030507a845e4c92d3b0f9b7d1f8c, type: 2}
-  levelUpParticleEffect: {fileID: 0}
   shouldUseModifiers: 0
 --- !u!1001 &7555011222426954974
 PrefabInstance:

@@ -304,14 +304,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   charName: vault boy
-  currentHP: 10000
+  currentHP: 1000
   currentSP: 0
   strength: 22
   defence: 33
   wpnPwr: 0
   armrPwr: 0
   speed: 5
-  maxHP: 10000
+  maxHP: 1000
   maxPP: 30
   equippedWpn: {fileID: 0}
   equippedArmr: {fileID: 0}
